@@ -1,0 +1,61 @@
+﻿question_id,passage_id,question,correct_answer,question_type,difficulty,source_dataset
+SYN_Q001,SYN_001,Where is Ardent Station located?,North Valley,location,easy,Synthetic Research Dataset
+SYN_Q002,SYN_002,What is the primary construction material of Ardent Station?,aluminum,material,easy,Synthetic Research Dataset
+SYN_Q003,SYN_003,In what year did Ardent Station officially open?,2012,opening_year,easy,Synthetic Research Dataset
+SYN_Q004,SYN_004,Where is Borealis Station located?,East Ridge,location,easy,Synthetic Research Dataset
+SYN_Q005,SYN_005,What is the primary construction material of Borealis Station?,steel,material,easy,Synthetic Research Dataset
+SYN_Q006,SYN_006,In what year did Borealis Station officially open?,2015,opening_year,easy,Synthetic Research Dataset
+SYN_Q007,SYN_007,Where is Cedar Station located?,West Meadow,location,easy,Synthetic Research Dataset
+SYN_Q008,SYN_008,What is the primary construction material of Cedar Station?,timber,material,easy,Synthetic Research Dataset
+SYN_Q009,SYN_009,In what year did Cedar Station officially open?,2010,opening_year,easy,Synthetic Research Dataset
+SYN_Q010,SYN_010,Where is Delta Station located?,Silver Plains,location,easy,Synthetic Research Dataset
+SYN_Q011,SYN_011,What is the primary construction material of Delta Station?,concrete,material,easy,Synthetic Research Dataset
+SYN_Q012,SYN_012,In what year did Delta Station officially open?,2018,opening_year,easy,Synthetic Research Dataset
+SYN_Q013,SYN_013,Where is Evergreen Station located?,Blue Highlands,location,easy,Synthetic Research Dataset
+SYN_Q014,SYN_014,What is the primary construction material of Evergreen Station?,composite,material,easy,Synthetic Research Dataset
+SYN_Q015,SYN_015,In what year did Evergreen Station officially open?,2014,opening_year,easy,Synthetic Research Dataset
+SYN_Q016,SYN_016,Where is Falcon Station located?,River District,location,easy,Synthetic Research Dataset
+SYN_Q017,SYN_017,What is the primary construction material of Falcon Station?,aluminum,material,easy,Synthetic Research Dataset
+SYN_Q018,SYN_018,In what year did Falcon Station officially open?,2016,opening_year,easy,Synthetic Research Dataset
+SYN_Q019,SYN_019,Where is Granite Station located?,Stone Valley,location,easy,Synthetic Research Dataset
+SYN_Q020,SYN_020,What is the primary construction material of Granite Station?,granite,material,easy,Synthetic Research Dataset
+SYN_Q021,SYN_021,In what year did Granite Station officially open?,2009,opening_year,easy,Synthetic Research Dataset
+SYN_Q022,SYN_022,Where is Harbor Station located?,Coastal Point,location,easy,Synthetic Research Dataset
+SYN_Q023,SYN_023,What is the primary construction material of Harbor Station?,steel,material,easy,Synthetic Research Dataset
+SYN_Q024,SYN_024,In what year did Harbor Station officially open?,2020,opening_year,easy,Synthetic Research Dataset
+SYN_Q025,SYN_025,Where is Iris Station located?,Golden Fields,location,easy,Synthetic Research Dataset
+SYN_Q026,SYN_026,What is the primary construction material of Iris Station?,timber,material,easy,Synthetic Research Dataset
+SYN_Q027,SYN_027,In what year did Iris Station officially open?,2011,opening_year,easy,Synthetic Research Dataset
+SYN_Q028,SYN_028,Where is Juniper Station located?,Pine Valley,location,easy,Synthetic Research Dataset
+SYN_Q029,SYN_029,What is the primary construction material of Juniper Station?,concrete,material,easy,Synthetic Research Dataset
+SYN_Q030,SYN_030,In what year did Juniper Station officially open?,2017,opening_year,easy,Synthetic Research Dataset
+SYN_Q031,SYN_031,Where is Keystone Station located?,Central Plateau,location,easy,Synthetic Research Dataset
+SYN_Q032,SYN_032,What is the primary construction material of Keystone Station?,composite,material,easy,Synthetic Research Dataset
+SYN_Q033,SYN_033,In what year did Keystone Station officially open?,2013,opening_year,easy,Synthetic Research Dataset
+SYN_Q034,SYN_034,Where is Lumen Station located?,Crystal Bay,location,easy,Synthetic Research Dataset
+SYN_Q035,SYN_035,What is the primary construction material of Lumen Station?,aluminum,material,easy,Synthetic Research Dataset
+SYN_Q036,SYN_036,In what year did Lumen Station officially open?,2019,opening_year,easy,Synthetic Research Dataset
+SYN_Q037,SYN_037,Where is Maple Station located?,Autumn Ridge,location,easy,Synthetic Research Dataset
+SYN_Q038,SYN_038,What is the primary construction material of Maple Station?,timber,material,easy,Synthetic Research Dataset
+SYN_Q039,SYN_039,In what year did Maple Station officially open?,2008,opening_year,easy,Synthetic Research Dataset
+SYN_Q040,SYN_040,Where is Nimbus Station located?,Cloud District,location,easy,Synthetic Research Dataset
+SYN_Q041,SYN_041,What is the primary construction material of Nimbus Station?,steel,material,easy,Synthetic Research Dataset
+SYN_Q042,SYN_042,In what year did Nimbus Station officially open?,2021,opening_year,easy,Synthetic Research Dataset
+SYN_Q043,SYN_043,Where is Orchid Station located?,Green Valley,location,easy,Synthetic Research Dataset
+SYN_Q044,SYN_044,What is the primary construction material of Orchid Station?,concrete,material,easy,Synthetic Research Dataset
+SYN_Q045,SYN_045,In what year did Orchid Station officially open?,2016,opening_year,easy,Synthetic Research Dataset
+SYN_Q046,SYN_046,Where is Pioneer Station located?,Red Canyon,location,easy,Synthetic Research Dataset
+SYN_Q047,SYN_047,What is the primary construction material of Pioneer Station?,granite,material,easy,Synthetic Research Dataset
+SYN_Q048,SYN_048,In what year did Pioneer Station officially open?,2012,opening_year,easy,Synthetic Research Dataset
+SYN_Q049,SYN_049,Where is Quartz Station located?,Mountain Edge,location,easy,Synthetic Research Dataset
+SYN_Q050,SYN_050,What is the primary construction material of Quartz Station?,composite,material,easy,Synthetic Research Dataset
+SYN_Q051,SYN_051,In what year did Quartz Station officially open?,2022,opening_year,easy,Synthetic Research Dataset
+SYN_Q052,SYN_052,Where is Raven Station located?,Dark Forest,location,easy,Synthetic Research Dataset
+SYN_Q053,SYN_053,What is the primary construction material of Raven Station?,aluminum,material,easy,Synthetic Research Dataset
+SYN_Q054,SYN_054,In what year did Raven Station officially open?,2014,opening_year,easy,Synthetic Research Dataset
+SYN_Q055,SYN_055,Where is Summit Station located?,Highland Park,location,easy,Synthetic Research Dataset
+SYN_Q056,SYN_056,What is the primary construction material of Summit Station?,steel,material,easy,Synthetic Research Dataset
+SYN_Q057,SYN_057,In what year did Summit Station officially open?,2007,opening_year,easy,Synthetic Research Dataset
+SYN_Q058,SYN_058,Where is Timber Station located?,Woodland Basin,location,easy,Synthetic Research Dataset
+SYN_Q059,SYN_059,What is the primary construction material of Timber Station?,timber,material,easy,Synthetic Research Dataset
+SYN_Q060,SYN_060,In what year did Timber Station officially open?,2023,opening_year,easy,Synthetic Research Dataset
